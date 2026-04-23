@@ -1,1 +1,2 @@
 https://gh-proxy.yp523ne.workers.dev/https://raw.githubusercontent.com
+http://127.0.0.1:5173/public/static/epub.js/viewer.html?url=$e_url
