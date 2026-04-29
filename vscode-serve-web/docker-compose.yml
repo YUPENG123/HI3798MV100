@@ -1,0 +1,18 @@
+services:
+  sub-store:
+    image: yupeng123456/vscode-serve-web:latest
+    container_name: vscode-serve-web
+    network_mode: bridge
+    restart: always
+    ports:
+       - "8000:8000"
+    volumes:
+      - /var/www/html:/var/www/html
+      - /mnt/sda3/root:/root
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+    environment:
+      - LANG=zh-CN.UTF-8
+      - NODE_OPTIONS=--max-old-space-size=2048
+    stdin_open: true
+    tty: true

@@ -1,0 +1,13 @@
+## 网址：
+[Go语言101](https://gfw.go101.org/)
+[Go by Example 中文版](https://github.com/gobyexample-cn/gobyexample-cn.github.io)
+[build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+
+
+
+
+
+## 规范：
+[《房屋建筑制图统一标准》GB/T 50001-2017](https://www.soujianzhu.cn/NormAndRules/NormContent.aspx?id=327)
+[《民用建筑设计统一标准》GB 50352-2019](https://www.soujianzhu.cn/NormAndRules/NormContent.aspx?id=386)
+[《旅馆建筑设计规范》JGJ62-2014](https://www.soujianzhu.cn/NormAndRules/NormContent.aspx?id=218)

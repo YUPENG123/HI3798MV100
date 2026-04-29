@@ -1,0 +1,2 @@
+apt update && apt install rsync && rm -rf /var/lib/apt/lists/*
+rsync -aqHAXP --delete /var/lib/docker/ /mnt/sda3/docker_data/
