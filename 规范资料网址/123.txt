@@ -1,5 +1,16 @@
+## 网址：
+
+
 https://gh-proxy.yp523ne.workers.dev/https://raw.githubusercontent.com
 http://127.0.0.1:5173/static/epub.js/viewer.html?url=$e_url
 https://alist-org.github.io/static/epub.js/viewer.html?url=$e_url
 https://www.gooood.cn/online-lectures-in-the-architecture-department-of-sjtu.htm
 https://www.xvideos.com/kinksub#_tabVideos
+
+
+
+[Go语言101](https://gfw.go101.org/)
+[Go by Example 中文版](https://github.com/gobyexample-cn/gobyexample-cn.github.io)
+[build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+[Go 语言编程之旅：一起用 Go 做项目](https://golang2.eddycjy.com/)
+[TypeScript](https://www.typescriptlang.org/zh/)
